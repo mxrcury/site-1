@@ -158,6 +158,7 @@ opacity:.75;
     font-weight: 500;
     font-size: 18px;
     color: white;
+    outline:0;
 }
 .search-form_field::placeholder{
     color: white;
@@ -176,6 +177,7 @@ height: 58px;
     color: white;
     background: #1b7dff;
     border:0;
+    cursor:pointer;
 }
 .search-form_submit:hover, .search-form_submit:focus, .search-form_submit:active{
     background: #18529f;
